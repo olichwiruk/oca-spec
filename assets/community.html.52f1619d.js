@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-67f865c9","path":"/community.html","title":"OCA Community","lang":"en-US","frontmatter":{"title":"OCA Community","description":"OCA Community"},"excerpt":"","headers":[],"git":{"updatedTime":1673563631000},"filePathRelative":"community.md"}');export{t as data};

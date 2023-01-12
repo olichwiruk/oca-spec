@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-11796e4e","path":"/ecosystem/oca-presenter.html","title":"OCA Presenter","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1673563631000},"filePathRelative":"ecosystem/oca-presenter.md"}');export{e as data};
